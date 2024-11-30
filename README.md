@@ -1,5 +1,7 @@
 # Computer dynamic hardware monitoring dashboard
 
+<img src="https://raw.githubusercontent.com/UopyTechSpeak/CompuMon/refs/heads/main/img/V0.0.1.png" width="2199px">
+
 ## 1、 Project Introduction
 The "Computer Dynamic Hardware Monitoring Dashboard" is a practical tool developed based on Python, aimed at providing users with comprehensive and real-time status monitoring services for computer systems and hardware. Through a concise and intuitive graphical interface, it can display detailed information about hardware devices such as CPU, memory, disk, graphics card, as well as system related situations, and dynamically present trends in CPU and memory usage through visual charts, helping users easily grasp the running status of their computer.
 
