@@ -11,7 +11,7 @@
     
 </p>
 <p align="center" class="language" title="Language selection 语言选择">
-  <a href="readme/README-CN.md">简体中文</a> | 
+  <a href="README-CN.md">简体中文</a> | 
   <a href="readme/README.md">English</a>
 </p>
 
