@@ -12,7 +12,7 @@
 </p>
 <p align="center" class="language" title="Language selection 语言选择">
   <a href="readme/README-CN.md">简体中文</a> | 
-  <a href="readme/README.md">English</a> | 
+  <a href="readme/README.md">English</a>
 </p>
 
 <img src="https://raw.githubusercontent.com/UopyTechSpeak/CompuMon/refs/heads/main/img/V0.0.1.png" width="2199px">
