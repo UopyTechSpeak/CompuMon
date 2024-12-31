@@ -1,6 +1,7 @@
 # Computer dynamic hardware monitoring dashboard
 
 <p align="center" class="shields">
+  <a href="https://img.shields.io/github/repo-size/UopyTechSpeak/CompuMon?color=fa0" style="text-decoration:none"><img src="https://img.shields.io/github/repo-size/UopyTechSpeak/CompuMon?color=fa0" alt="repo-size"/></a>
   <a href="https://github.com/UopyTechSpeak/CompuMon/issues" style="text-decoration:none"><img src="https://img.shields.io/github/issues/UopyTechSpeak/CompuMon.svg" alt="GitHub issues"/></a>
   <a href="https://github.com/UopyTechSpeak/CompuMon/stargazers" style="text-decoration:none"><img src="https://img.shields.io/github/stars/UopyTechSpeak/CompuMon.svg" alt="GitHub stars"/></a>
   <a href="https://github.com/UopyTechSpeak/CompuMon/network" style="text-decoration:none">
