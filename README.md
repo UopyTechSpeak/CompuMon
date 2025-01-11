@@ -10,12 +10,6 @@
   <a href="https://github.com/UopyTechSpeak/CompuMon/blob/master/LICENSE" style="text-decoration:none">
     <img src="https://img.shields.io/github/license/UopyTechSpeak/CompuMon" alt="GitHub License"/></a>
     
-</p>
-<p align="center" class="language" title="Language selection 语言选择">
-  <a href="README-CN.md">简体中文</a> | 
-  <a href="readme/README.md">English</a>
-</p>
-
 <img src="https://raw.githubusercontent.com/UopyTechSpeak/CompuMon/refs/heads/main/img/V0.0.1.png" width="2199px">
 
 ## 1、 Project Introduction
